@@ -7,8 +7,3 @@
 gummasudeepyadav@gmail.com
 
 https://www.linkedin.com/in/gumma-sudeep-a5b217128/
-
-<!---
-GummaSudeep/GummaSudeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
