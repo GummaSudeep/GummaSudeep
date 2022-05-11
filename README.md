@@ -5,5 +5,3 @@
 - 📫 To reach me
 
 gummasudeepyadav@gmail.com
-
-https://www.linkedin.com/in/gumma-sudeep-a5b217128/
